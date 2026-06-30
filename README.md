@@ -37,12 +37,12 @@ I build scalable backend systems for fintech, where the core problem is turning 
 <!--START_SECTION:pinned-repos-->
 | Repo | Description | Stack | ⭐ |
 | :-- | :-- | :-- | --: |
-| [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | Draw-the-word-and-guess multiplayer game | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 2 |
-| [**SuperSevenCards**](https://github.com/PankajChauhanji/SuperSevenCards) | Super Seven Cards game | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 2 |
-| [**cricket-analysis-prediction**](https://github.com/PankajChauhanji/cricket-analysis-prediction) | Cricket data analysis & prediction notebook | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | 2 |
-| [**ocr-string-similarity**](https://github.com/PankajChauhanji/ocr-string-similarity) | Image similarity matching for OCR'd text | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | 2 |
-| [**line_encoder**](https://github.com/PankajChauhanji/line_encoder) | Implementations of line-encoding schemes | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 3 |
-| [**salary_predictions**](https://github.com/PankajChauhanji/salary_predictions) | Salary prediction model for software developers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 3 |
+| [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | draw the word and guess game. | JavaScript | 2 |
+| [**SuperSevenCards**](https://github.com/PankajChauhanji/SuperSevenCards) | Super seven cards game. | Python | 2 |
+| [**my_portfolio**](https://github.com/PankajChauhanji/my_portfolio) | My Portfolio | HTML | 1 |
+| [**cricket-analysis-prediction**](https://github.com/PankajChauhanji/cricket-analysis-prediction) | — | Jupyter Notebook | 2 |
+| [**ocr-string-similarity**](https://github.com/PankajChauhanji/ocr-string-similarity) | Image Similarity Matching | Jupyter Notebook | 2 |
+| [**line_encoder**](https://github.com/PankajChauhanji/line_encoder) | Implementing the line encoding schemes | Python | 3 |
 <!--END_SECTION:pinned-repos-->
 
 <sub>↑ synced automatically from my GitHub pins — see <code>.github/workflows/pinned-repos-sync.yml</code></sub>
