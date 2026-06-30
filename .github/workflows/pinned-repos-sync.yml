@@ -2,10 +2,13 @@ name: Sync Pinned Repos to README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # every Monday 03:00 UTC — adjust as you like
   workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
   push:
     branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   sync-pinned-repos:
@@ -13,7 +16,65 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update pinned repos section
-        uses: matchai/pinned-repo-readme-sync@v1
+      - name: Fetch pinned repos and rewrite README section
+        uses: actions/github-script@v7
         with:
-          github_token: ${{ secrets.PIN_SYNC_TOKEN }}
+          github-token: ${{ secrets.PIN_SYNC_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const username = "PankajChauhanji";
+
+            const query = `
+              query($login: String!) {
+                user(login: $login) {
+                  pinnedItems(first: 6, types: REPOSITORY) {
+                    nodes {
+                      ... on Repository {
+                        name
+                        url
+                        description
+                        primaryLanguage { name }
+                        stargazerCount
+                      }
+                    }
+                  }
+                }
+              }
+            `;
+
+            const result = await github.graphql(query, { login: username });
+            const repos = result.user.pinnedItems.nodes;
+
+            let table = "| Repo | Description | Stack | \u2b50 |\n| :-- | :-- | :-- | --: |\n";
+            for (const repo of repos) {
+              const lang = repo.primaryLanguage ? repo.primaryLanguage.name : "\u2014";
+              const desc = repo.description ? repo.description.replace(/\|/g, "-") : "\u2014";
+              table += `| [**${repo.name}**](${repo.url}) | ${desc} | ${lang} | ${repo.stargazerCount} |\n`;
+            }
+
+            const readmePath = "README.md";
+            const content = fs.readFileSync(readmePath, "utf8");
+
+            const startMarker = "<!--START_SECTION:pinned-repos-->";
+            const endMarker = "<!--END_SECTION:pinned-repos-->";
+            const startIdx = content.indexOf(startMarker);
+            const endIdx = content.indexOf(endMarker);
+
+            if (startIdx === -1 || endIdx === -1) {
+              core.setFailed("Markers not found in README.md");
+              return;
+            }
+
+            const before = content.slice(0, startIdx + startMarker.length);
+            const after = content.slice(endIdx);
+            const newContent = `${before}\n${table}${after}`;
+
+            fs.writeFileSync(readmePath, newContent);
+
+      - name: Commit changes if anything updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet --cached || git commit -m "chore: sync pinned repos"
+          git push
