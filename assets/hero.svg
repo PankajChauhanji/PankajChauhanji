@@ -1,0 +1,48 @@
+<svg viewBox="0 0 860 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pankaj Chauhan — Tech Lead at Perfios. Highest trek 4,600m.">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1322"/>
+      <stop offset="0.55" stop-color="#3a2c52"/>
+      <stop offset="1" stop-color="#7a4a48"/>
+    </linearGradient>
+    <linearGradient id="ridgeBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a3550"/><stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="ridgeFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10151f"/><stop offset="1" stop-color="#0b0f16"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="230" rx="10" fill="url(#sky)"/>
+
+  <!-- sun / dawn glow -->
+  <circle cx="648" cy="86" r="28" fill="#e8b066" opacity="0.92"/>
+  <circle cx="648" cy="86" r="44" fill="#e8b066" opacity="0.14"/>
+
+  <!-- stars -->
+  <g fill="#cdd9e5" opacity="0.45">
+    <circle cx="78" cy="30" r="1"/><circle cx="158" cy="54" r="1.1"/><circle cx="248" cy="26" r="1"/>
+    <circle cx="356" cy="46" r="1"/><circle cx="118" cy="74" r="1"/><circle cx="298" cy="66" r="1"/>
+    <circle cx="720" cy="40" r="1"/><circle cx="560" cy="32" r="1"/>
+  </g>
+
+  <!-- back ridge -->
+  <path d="M0 162 L120 106 L210 146 L330 92 L440 146 L560 100 L690 152 L800 116 L860 146 L860 230 L0 230 Z"
+        fill="url(#ridgeBack)" opacity="0.85"/>
+
+  <!-- front ridge + snow caps -->
+  <path d="M0 230 L0 192 L110 146 L190 184 L300 128 L400 178 L520 136 L640 186 L760 146 L860 188 L860 230 Z"
+        fill="url(#ridgeFront)"/>
+  <path d="M300 128 L285 143 L300 139 L312 149 L325 141 Z" fill="#dce6f2" opacity="0.85"/>
+  <path d="M520 136 L506 150 L520 146 L532 156 L545 147 Z" fill="#dce6f2" opacity="0.78"/>
+
+  <!-- altitude flag -->
+  <line x1="300" y1="58" x2="300" y2="128" stroke="#e0a458" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <path d="M300 58 L338 65 L300 74 Z" fill="#e0a458"/>
+  <text x="345" y="69" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" fill="#e0a458" font-weight="600">4,600 m — highest point reached</text>
+
+  <!-- identity -->
+  <text x="42" y="72" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#f2f5fa" letter-spacing="-0.8">Pankaj Chauhan</text>
+  <text x="44" y="98" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#aebfda">Tech Lead · Perfios Software Solutions</text>
+  <text x="44" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" fill="#8b949e">I turn millions of messy PDFs into clean, structured data.</text>
+</svg>
