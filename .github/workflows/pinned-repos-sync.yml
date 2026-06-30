@@ -1,0 +1,19 @@
+name: Sync Pinned Repos to README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  sync-pinned-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update pinned repos section
+        uses: matchai/pinned-repo-readme-sync@v1
+        with:
+          github_token: ${{ secrets.PIN_SYNC_TOKEN }}
