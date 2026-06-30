@@ -2,10 +2,13 @@
 
 ![Pankaj Chauhan — Tech Lead at Perfios. Highest trek 4,600m.](./assets/hero.svg)
 
-<a href="https://pankaj-sde.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-pankaj--sde.pages.dev-e0a458?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/pankaj-chauhan-sde/"><img src="https://img.shields.io/badge/LinkedIn-pankaj--chauhan--sde-7fb5e6?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="mailto:pankajchauhan.nitsri@gmail.com"><img src="https://img.shields.io/badge/Email-pankajchauhan.nitsri-5dcaa5?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://pankaj-sde.pages.dev/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-c6b5f0?style=flat-square&logo=readthedocs&logoColor=white"></a>
+<a href="https://pankaj-sde.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-e0a458?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pankaj-chauhan-sde/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&nbsp;
+<a href="mailto:pankajchauhan.nitsri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+&nbsp;
+<a href="https://pankaj-sde.pages.dev/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 
 </div>
 
@@ -19,7 +22,7 @@
   "role":     "Tech Lead",
   "company":  "Perfios Software Solutions",
   "location": "Dehradun, India · Perfios New Delhi (hybrid)",
-  "focus":    ["Agentic AI", "Data Mining", "LLM pipelines", "Fraud forensics", Python Development],
+  "focus":    ["Agentic AI", "Data Mining", "LLM pipelines", "Fraud forensics", "Python Development"],
   "off_duty": "Altitude trekking — highest point 4,600 m",
   "mantra":   "Planning an expedition is a lot like planning a release."
 }
@@ -41,12 +44,23 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 | Role | Focus | When |
 | :-- | :-- | --: |
-| **Tech Lead** · Perfios | Corporate Risk platform (10K docs/day) · DGFT trade-risk pipeline · FIR extraction at national scale · table extraction across 10M+ records | Apr 2024 – present |
+| **Tech Lead** · Perfios | DGFT trade-risk pipeline — daily court-judgment analysis, multi-stage OCR + prompt engineering to classify complex legal risk | Apr 2026 – present |
+| **Senior Member of Technical Staff** · Perfios | Corporate Entities Risk platform (10K docs/day) · FIR extraction at national scale · table extraction across 10M+ records | Apr 2024 – Apr 2026 |
 | **Software Engineer II** · Perfios | Industry-first PDF tampering detection (1.5M+ docs) · generic parser-utility framework at 98.6% accuracy | Apr 2022 – Apr 2024 |
 | **Software Engineer** · Karza Technologies | Low-latency KYC parser APIs · Google & Azure OCR · 40% latency reduction | Jun 2021 – Apr 2022 |
 | **Software Development Intern** · SmartServ | SQL/MongoDB migrations · React & jQuery front-end features | Jan 2021 – Jun 2021 |
 
-*B.Tech, Information Technology — National Institute of Technology, Srinagar (2017–2021)*
+---
+
+### 🎓 Education
+
+<div align="center">
+
+![B.Tech, Information Technology — National Institute of Technology, Srinagar · 2017–2021](https://img.shields.io/badge/NIT%20Srinagar-B.Tech%20Information%20Technology%20%C2%B7%202017%E2%80%932021-7fb5e6?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+</div>
+
+**National Institute of Technology, Srinagar** — *B.Tech, Information Technology* · 2017 – 2021
 
 ---
 
@@ -88,15 +102,15 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
-### A system I've built
+### A system I've built — Corporate Entities Risk Platform
 
 <div align="center">
 
-![Document extraction pipeline: raw PDF → layout + OCR → LLM extraction, with tamper check and validation, into clean structured JSON](./assets/pipeline.svg)
+![Corporate Entities Risk Platform: crawl open-source news to MongoDB, filter and de-noise, detect relevant businesses with NLP and an ensemble model, extract and filter entities with an LLM, profile risk with an LLM, then stitch into the entities risk database](./assets/pipeline.svg)
 
 </div>
 
-The extraction pipeline behind the fintech work — layout-aware parsing and OCR feeding an LLM stage for classification, with a forensic tamper check and validation pass before anything is trusted as clean data.
+One of several platforms I've built at Perfios. It continuously crawls open-source news into MongoDB, cleans and de-noises the stream, then detects relevant businesses using NLP and an ensemble classifier. From there, LLMs extract and filter the entities, profile each one for risk, and stitch the results back into a central entities database — turning a firehose of raw news into structured, queryable risk intelligence.
 
 ---
 
