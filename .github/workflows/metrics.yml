@@ -2,7 +2,7 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # nightly at 04:00 UTC
   workflow_dispatch: {}
   push:
     branches: [main]
@@ -20,10 +20,8 @@ jobs:
           user: PankajChauhanji
           template: classic
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
           plugin_languages: yes
           plugin_languages_limit: 6
+          plugin_languages_ignored: jupyter notebook
           config_timezone: Asia/Kolkata
           output_action: github
