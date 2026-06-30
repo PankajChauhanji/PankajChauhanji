@@ -45,8 +45,6 @@ I build scalable backend systems for fintech, where the core problem is turning 
 | [**line_encoder**](https://github.com/PankajChauhanji/line_encoder) | Implementing the line encoding schemes | Python | 3 |
 <!--END_SECTION:pinned-repos-->
 
-<sub>↑ synced automatically from my GitHub pins — see <code>.github/workflows/pinned-repos-sync.yml</code></sub>
-
 ---
 
 ### 📈 Activity & Stats
@@ -72,8 +70,6 @@ I build scalable backend systems for fintech, where the core problem is turning 
 ![Metrics — overall stats & top languages](https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/main/github-metrics.svg)
 
 </div>
-
-<sub>Streak card = total contributions, current streak, longest streak over the trailing 12 months (GitHub's contribution calendar doesn't expose a 90-day window). Metrics card = lifetime stars, commits, PRs, issues & top languages (Jupyter Notebook excluded from the language breakdown, since notebook file size skews it disproportionately) — generated and committed by a nightly Action, not a live third-party API call. Snake animation re-renders nightly via its own Action.</sub>
 
 ---
 
