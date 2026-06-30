@@ -32,6 +32,33 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
+### 📌 Pinned
+
+<!--START_SECTION:pinned-repos-->
+| Repo | Description | Stack | ⭐ |
+| :-- | :-- | :-- | --: |
+| [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | Draw-the-word-and-guess multiplayer game | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 2 |
+| [**SuperSevenCards**](https://github.com/PankajChauhanji/SuperSevenCards) | Super Seven Cards game | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 2 |
+| [**cricket-analysis-prediction**](https://github.com/PankajChauhanji/cricket-analysis-prediction) | Cricket data analysis & prediction notebook | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | 2 |
+| [**ocr-string-similarity**](https://github.com/PankajChauhanji/ocr-string-similarity) | Image similarity matching for OCR'd text | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | 2 |
+| [**line_encoder**](https://github.com/PankajChauhanji/line_encoder) | Implementations of line-encoding schemes | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 3 |
+| [**salary_predictions**](https://github.com/PankajChauhanji/salary_predictions) | Salary prediction model for software developers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 3 |
+<!--END_SECTION:pinned-repos-->
+
+<sub>↑ synced automatically from my GitHub pins — see <code>.github/workflows/pinned-repos-sync.yml</code></sub>
+
+---
+
+### 📈 Activity
+
+<div align="center">
+
+![Pankaj's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PankajChauhanji&bg_color=00000000&color=e0a458&line=6e40c9&point=7fb5e6&area=true&hide_border=true&custom_title=Commit%20Activity)
+
+</div>
+
+---
+
 <div align="center">
 
 ![10M+ documents processed · 98.6% extraction accuracy · 85% LLM cost reduction · 1.5M+ documents screened for tampering](./assets/summit-stats.svg)
