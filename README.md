@@ -49,13 +49,33 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
-### 📈 Activity
+### 📈 Activity & Stats
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br><br>
+
 ![Pankaj's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PankajChauhanji&bg_color=00000000&color=e0a458&line=6e40c9&point=7fb5e6&area=true&hide_border=true&custom_title=Commit%20Activity)
 
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajChauhanji&background=00000000&border=00000000&ring=6e40c9&fire=D14836&currStreakLabel=e0a458&sideLabels=7fb5e6&sideNums=e0a458&dates=7fb5e6&hide_border=true" alt="Streak stats — total contributions, current & longest streak" height="180" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=PankajChauhanji&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=e0a458&icon_color=7fb5e6&text_color=c9d1d9&ring_color=6e40c9" alt="Overall GitHub stats — stars, commits, PRs, issues" height="180" />
+
+<br><br>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PankajChauhanji&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=8)
+
 </div>
+
+<sub>Streak card = total contributions, current streak, longest streak over the trailing 12 months (GitHub's contribution calendar doesn't expose a 90-day window). Stats card = lifetime stars, commits, PRs & issues. Snake animation re-renders nightly via Action.</sub>
 
 ---
 
