@@ -19,8 +19,8 @@
   "role":     "Tech Lead",
   "company":  "Perfios Software Solutions",
   "location": "Dehradun, India · Perfios New Delhi (hybrid)",
-  "focus":    ["Agentic AI", "PDF parsing", "LLM pipelines", "Fraud forensics"],
-  "off_duty": "High-altitude trekking — highest point 4,600 m",
+  "focus":    ["Agentic AI", "Data Mining", "LLM pipelines", "Fraud forensics", Python Development],
+  "off_duty": "Altitude trekking — highest point 4,600 m",
   "mantra":   "Planning an expedition is a lot like planning a release."
 }
 ```
@@ -81,7 +81,6 @@ I build scalable backend systems for fintech, where the core problem is turning 
 **Web & infra**
 &nbsp;
 ![Flask](https://img.shields.io/badge/Flask-D9822B?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-D9822B?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D9822B?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-D9822B?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-D9822B?style=flat-square&logo=docker&logoColor=white)
