@@ -37,12 +37,12 @@ I build scalable backend systems for fintech, where the core problem is turning 
 <!--START_SECTION:pinned-repos-->
 | Repo | Description | Stack | ⭐ |
 | :-- | :-- | :-- | --: |
-| [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | draw the word and guess game. | JavaScript | 2 |
-| [**SuperSevenCards**](https://github.com/PankajChauhanji/SuperSevenCards) | Super seven cards game. | Python | 2 |
-| [**my_portfolio**](https://github.com/PankajChauhanji/my_portfolio) | My Portfolio | HTML | 1 |
-| [**cricket-analysis-prediction**](https://github.com/PankajChauhanji/cricket-analysis-prediction) | — | Jupyter Notebook | 2 |
-| [**ocr-string-similarity**](https://github.com/PankajChauhanji/ocr-string-similarity) | Image Similarity Matching | Jupyter Notebook | 2 |
-| [**line_encoder**](https://github.com/PankajChauhanji/line_encoder) | Implementing the line encoding schemes | Python | 3 |
+| [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | draw the word and guess game. | JavaScript | 3 |
+| [**SuperSevenCards**](https://github.com/PankajChauhanji/SuperSevenCards) | Super seven cards game. | Python | 3 |
+| [**my_portfolio**](https://github.com/PankajChauhanji/my_portfolio) | My Portfolio | HTML | 2 |
+| [**cricket-analysis-prediction**](https://github.com/PankajChauhanji/cricket-analysis-prediction) | — | Jupyter Notebook | 3 |
+| [**ocr-string-similarity**](https://github.com/PankajChauhanji/ocr-string-similarity) | Image Similarity Matching | Jupyter Notebook | 3 |
+| [**line_encoder**](https://github.com/PankajChauhanji/line_encoder) | Implementing the line encoding schemes | Python | 4 |
 <!--END_SECTION:pinned-repos-->
 
 ---
