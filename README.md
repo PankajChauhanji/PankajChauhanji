@@ -61,13 +61,11 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ![Pankaj's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PankajChauhanji&bg_color=00000000&color=e0a458&line=6e40c9&point=7fb5e6&area=true&hide_border=true&custom_title=Commit%20Activity)
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajChauhanji&background=00000000&border=00000000&ring=6e40c9&fire=D14836&currStreakLabel=e0a458&sideLabels=7fb5e6&sideNums=e0a458&dates=7fb5e6&hide_border=true" alt="Streak stats — total contributions, current & longest streak" height="180" />
-
 <br><br>
 
-![Metrics — overall stats & top languages](https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/main/github-metrics.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajChauhanji&background=00000000&border=00000000&ring=6e40c9&fire=D14836&currStreakLabel=e0a458&sideLabels=7fb5e6&sideNums=e0a458&dates=7fb5e6&hide_border=true" alt="Streak stats — total contributions, current & longest streak" height="180" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-metrics.svg" alt="Metrics — overall stats & top languages" height="180" />
 
 </div>
 

@@ -48,7 +48,8 @@ jobs:
             let table = "| Repo | Description | Stack | \u2b50 |\n| :-- | :-- | :-- | --: |\n";
             for (const repo of repos) {
               const lang = repo.primaryLanguage ? repo.primaryLanguage.name : "\u2014";
-              const desc = repo.description ? repo.description.replace(/\|/g, "-") : "\u2014";
+              const rawDesc = repo.description ? repo.description.replace(/\|/g, "-") : "\u2014";
+              const desc = rawDesc !== "\u2014" && rawDesc.length > 0 ? rawDesc.charAt(0).toUpperCase() + rawDesc.slice(1) : rawDesc;
               table += `| [**${repo.name}**](${repo.url}) | ${desc} | ${lang} | ${repo.stargazerCount} |\n`;
             }
 

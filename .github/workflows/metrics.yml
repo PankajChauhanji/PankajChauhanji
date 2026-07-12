@@ -2,7 +2,7 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # nightly at 04:00 UTC
+    - cron: "15 */6 * * *"   # every 6 hours offset by 15 mins
   workflow_dispatch: {}
   push:
     branches: [main]
@@ -17,6 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PIN_SYNC_TOKEN }}
+          committer_branch: output
           user: PankajChauhanji
           template: classic
           base: ""
@@ -24,4 +25,4 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_ignored: jupyter notebook
           config_timezone: Asia/Kolkata
-          output_action: github
+          output_action: commit
