@@ -38,7 +38,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 | Repo | Description | Stack | ⭐ |
 | :-- | :-- | :-- | --: |
 | [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | Draw the word and guess game. | JavaScript | 3 |
-| [**SuperSevenCards**](https://github.com/PankajChauhanji/SuperSevenCards) | Super seven cards game. | Python | 3 |
+| [**SuperSevenCards**](https://github.com/PankajChauhanji/SuperSevenCards) | Super seven cards game. | Python | 4 |
 | [**my_portfolio**](https://github.com/PankajChauhanji/my_portfolio) | My Portfolio | HTML | 2 |
 | [**cricket-analysis-prediction**](https://github.com/PankajChauhanji/cricket-analysis-prediction) | — | Jupyter Notebook | 3 |
 | [**ocr-string-similarity**](https://github.com/PankajChauhanji/ocr-string-similarity) | Image Similarity Matching | Jupyter Notebook | 3 |
