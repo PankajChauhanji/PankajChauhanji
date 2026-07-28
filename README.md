@@ -37,8 +37,8 @@ I build scalable backend systems for fintech, where the core problem is turning 
 <!--START_SECTION:pinned-repos-->
 | Repo | Description | Stack | ⭐ |
 | :-- | :-- | :-- | --: |
-| [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | Draw the word and guess game. | JavaScript | 3 |
-| [**SuperCards**](https://github.com/PankajChauhanji/SuperCards) | Super seven cards game. | Python | 4 |
+| [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | draw the word and guess game. | JavaScript | 3 |
+| [**SuperCards**](https://github.com/PankajChauhanji/SuperCards) | Super cards game. | Python | 3 |
 | [**my_portfolio**](https://github.com/PankajChauhanji/my_portfolio) | My Portfolio | HTML | 2 |
 | [**cricket-analysis-prediction**](https://github.com/PankajChauhanji/cricket-analysis-prediction) | — | Jupyter Notebook | 3 |
 | [**ocr-string-similarity**](https://github.com/PankajChauhanji/ocr-string-similarity) | Image Similarity Matching | Jupyter Notebook | 3 |
@@ -73,7 +73,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 <div align="center">
 
-![10M+ documents processed · 98.6% extraction accuracy · 85% LLM cost reduction · 1.5M+ documents screened for tampering](./assets/summit-stats.svg)
+![100M+ documents processed · 98%+ extraction accuracy · 85% LLM cost reduction . 25M+ documents reviewed for fraud investigations](./assets/summit-stats.svg)
 
 </div>
 
@@ -84,8 +84,8 @@ I build scalable backend systems for fintech, where the core problem is turning 
 | Role | Focus | When |
 | :-- | :-- | --: |
 | **Tech Lead** · Perfios | DGFT trade-risk pipeline — daily court-judgment analysis, multi-stage OCR + prompt engineering to classify complex legal risk | Apr 2026 – present |
-| **Senior Member of Technical Staff** · Perfios | Corporate Entities Risk platform (10K docs/day) · FIR extraction at national scale · table extraction across 10M+ records | Apr 2024 – Apr 2026 |
-| **Software Engineer II** · Perfios | Industry-first PDF tampering detection (1.5M+ docs) · generic parser-utility framework at 98.6% accuracy | Apr 2022 – Apr 2024 |
+| **Senior Member of Technical Staff** · Perfios | Corporate Entities Risk platform (10K/day) · FIR extraction at national scale · table extraction across 100M+ documents | Apr 2024 – Apr 2026 |
+| **Software Engineer II** · Perfios | Industry-first PDF tampering detection for fraud investigations across 25M+ documents · generic parser-utility framework at 98.6% accuracy | Apr 2022 – Apr 2024 |
 | **Software Engineer** · Karza Technologies | Low-latency KYC parser APIs · Google & Azure OCR · 40% latency reduction | Jun 2021 – Apr 2022 |
 | **Software Development Intern** · SmartServ | SQL/MongoDB migrations · React & jQuery front-end features | Jan 2021 – Jun 2021 |
 
