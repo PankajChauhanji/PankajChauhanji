@@ -29,7 +29,7 @@
       <rect x="440" y="14" width="200" height="104" rx="12" fill="url(#card)" stroke="#30363d"/>
       <rect x="440" y="14" width="200" height="104" rx="12" fill="url(#glow)"/>
       <text x="540" y="66" font-size="30" font-weight="700" fill="#f2f5fa">85%</text>
-      <text x="540" y="92" font-size="12" fill="#353739">LLM cost reduction</text>
+      <text x="540" y="92" font-size="12" fill="#8b949e">LLM cost reduction</text>
     </g>
     <!-- card 4 -->
     <g>
