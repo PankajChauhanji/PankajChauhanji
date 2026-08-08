@@ -2,10 +2,14 @@ name: Sync Pinned Repos to README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every Monday 03:00 UTC — adjust as you like
+    - cron: "0 */6 * * *"   # every 6 hours — adjust as you like
   workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
   push:
     branches: [main]
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
