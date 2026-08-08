@@ -52,20 +52,16 @@ I build scalable backend systems for fintech, where the core problem is turning 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/PankajChauhanji/PankajChauhanji@output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/PankajChauhanji/PankajChauhanji@output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://cdn.jsdelivr.net/gh/PankajChauhanji/PankajChauhanji@output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<br><br>
-
-![Pankaj's commit calendar](https://cdn.jsdelivr.net/gh/PankajChauhanji/PankajChauhanji@output/github-calendar.svg)
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajChauhanji&background=00000000&border=00000000&ring=6e40c9&fire=D14836&currStreakLabel=e0a458&sideLabels=7fb5e6&sideNums=e0a458&dates=7fb5e6&hide_border=true" alt="Streak stats — total contributions, current & longest streak" height="180" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/PankajChauhanji/PankajChauhanji@output/github-metrics.svg" alt="Metrics — overall stats & top languages" height="180" />
+<img src="https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-metrics.svg" alt="Metrics — overall stats & top languages" height="180" />
 
 </div>
 
