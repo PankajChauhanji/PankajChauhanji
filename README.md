@@ -12,8 +12,15 @@
 
 </div>
 
+<div align="center">
+
+[whoami](#whoami) &nbsp;·&nbsp; [Pinned](#pinned) &nbsp;·&nbsp; [Stats](#stats) &nbsp;·&nbsp; [Career](#career) &nbsp;·&nbsp; [Education](#education) &nbsp;·&nbsp; [Stack](#stack) &nbsp;·&nbsp; [Built](#system-built) &nbsp;·&nbsp; [More](#more) &nbsp;·&nbsp; [Contact](#trailhead)
+
+</div>
+
 ---
 
+<a id="whoami"></a>
 ### `~/whoami`
 
 ```json
@@ -32,6 +39,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
+<a id="pinned"></a>
 ### 📌 Pinned
 
 <!--START_SECTION:pinned-repos-->
@@ -47,6 +55,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
+<a id="stats"></a>
 ### 📈 Activity & Stats
 
 <div align="center">
@@ -75,6 +84,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
+<a id="career"></a>
 ### The ascent — where I've shipped
 
 | Role | Focus | When |
@@ -87,6 +97,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
+<a id="education"></a>
 ### 🎓 Education
 
 <div align="center">
@@ -99,6 +110,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
+<a id="stack"></a>
 ### The kit
 
 **Languages**
@@ -137,6 +149,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 ---
 
+<a id="system-built"></a>
 ### A system I've built — Corporate Entities Risk Platform
 
 <div align="center">
@@ -149,6 +162,7 @@ One of several platforms I've built at Perfios. It continuously crawls open-sour
 
 ---
 
+<a id="more"></a>
 <details>
 <summary><b>🏔️  Away from the keyboard</b></summary>
 
