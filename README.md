@@ -59,7 +59,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 
 <br><br>
 
-![Pankaj's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PankajChauhanji&bg_color=00000000&color=e0a458&line=6e40c9&point=7fb5e6&area=true&hide_border=true&custom_title=Commit%20Activity)
+![Pankaj's commit calendar](https://raw.githubusercontent.com/PankajChauhanji/PankajChauhanji/output/github-calendar.svg)
 
 <br><br>
 
