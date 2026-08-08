@@ -26,3 +26,17 @@ jobs:
           plugin_languages_ignored: jupyter notebook
           config_timezone: Asia/Kolkata
           output_action: commit
+
+      - name: Generate commit calendar (self-hosted replacement for the live activity-graph widget)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-calendar.svg
+          token: ${{ secrets.PIN_SYNC_TOKEN }}
+          committer_branch: output
+          user: PankajChauhanji
+          template: classic
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          config_timezone: Asia/Kolkata
+          output_action: commit
