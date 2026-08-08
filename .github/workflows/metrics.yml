@@ -7,6 +7,10 @@ on:
   push:
     branches: [main]
 
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -14,7 +18,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.PIN_SYNC_TOKEN }}
           committer_branch: output
@@ -28,7 +32,7 @@ jobs:
           output_action: commit
 
       - name: Generate commit calendar (self-hosted replacement for the live activity-graph widget)
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: github-calendar.svg
           token: ${{ secrets.PIN_SYNC_TOKEN }}
@@ -40,3 +44,8 @@ jobs:
           plugin_calendar_limit: 1
           config_timezone: Asia/Kolkata
           output_action: commit
+
+      - name: Force jsDelivr CDN to pick up the new SVGs immediately
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/PankajChauhanji/PankajChauhanji@output/github-metrics.svg"
+          curl -s "https://purge.jsdelivr.net/gh/PankajChauhanji/PankajChauhanji@output/github-calendar.svg"
