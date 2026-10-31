@@ -45,7 +45,7 @@ I build scalable backend systems for fintech, where the core problem is turning 
 <!--START_SECTION:pinned-repos-->
 | Repo | Description | Stack | ⭐ |
 | :-- | :-- | :-- | --: |
-| [**SuperCards**](https://github.com/PankajChauhanji/SuperCards) | Super seven cards game. | Python | 5 |
+| [**SuperCards**](https://github.com/PankajChauhanji/SuperCards) | Super seven cards game. | — | 5 |
 | [**DrawHunt**](https://github.com/PankajChauhanji/DrawHunt) | Draw the word and guess game. | JavaScript | 4 |
 | [**my_portfolio**](https://github.com/PankajChauhanji/my_portfolio) | My Portfolio | HTML | 3 |
 | [**cric_ovo**](https://github.com/PankajChauhanji/cric_ovo) | Cricket tournaments management platform. | Python | 1 |
