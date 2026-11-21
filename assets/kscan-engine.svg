@@ -1,0 +1,68 @@
+<svg viewBox="0 0 860 206" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Business Classification Engine: company registry records go to identity-verified website discovery (99.4% precision), then crawl and clean, then an LLM taxonomy engine on self-hosted Qwen that produces a NIC-2008 business profile (98%+ accuracy), which powers lead generation, peer comparison and AML/KYC due diligence.">
+  <defs>
+    <marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0 0 L6 3 L0 6 Z" fill="#5dcaa5"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="860" height="206" rx="12" fill="#161b22" stroke="#30363d"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" text-anchor="middle">
+    <!-- row 1: registry -> discovery -> crawl -> taxonomy -->
+    <g>
+      <rect x="22" y="30" width="152" height="50" rx="8" fill="#1c222b" stroke="#30363d"/>
+      <text x="98" y="52" font-size="11" fill="#e6edf3">Company registry</text>
+      <text x="98" y="68" font-size="9" fill="#8b949e">MCA &#183; GST &#183; PAN</text>
+    </g>
+    <g>
+      <rect x="226" y="30" width="152" height="50" rx="8" fill="#1c222b" stroke="#7fb5e6"/>
+      <text x="302" y="52" font-size="11" fill="#e6edf3">Website discovery</text>
+      <text x="302" y="68" font-size="9" fill="#8b949e">identity-verified &#183; 99.4%</text>
+    </g>
+    <g>
+      <rect x="430" y="30" width="152" height="50" rx="8" fill="#1c222b" stroke="#7fb5e6"/>
+      <text x="506" y="52" font-size="11" fill="#e6edf3">Crawl &amp; clean</text>
+      <text x="506" y="68" font-size="9" fill="#8b949e">render &#183; page types</text>
+    </g>
+    <g>
+      <rect x="634" y="30" width="152" height="50" rx="8" fill="#1c222b" stroke="#c6b5f0"/>
+      <text x="710" y="52" font-size="11" fill="#e6edf3">Taxonomy engine</text>
+      <text x="710" y="68" font-size="9" fill="#8b949e">embeddings &#183; Qwen</text>
+    </g>
+
+    <!-- row 2: profile, then what it powers -->
+    <g>
+      <rect x="634" y="126" width="152" height="50" rx="8" fill="#1c222b" stroke="#e0a458"/>
+      <text x="710" y="148" font-size="11" fill="#e6edf3">Business profile</text>
+      <text x="710" y="164" font-size="9" fill="#8b949e">NIC-2008 &#183; 98%+</text>
+    </g>
+    <g>
+      <rect x="430" y="126" width="152" height="50" rx="8" fill="#1c222b" stroke="#5dcaa5"/>
+      <text x="506" y="148" font-size="11" fill="#e6edf3">Lead generation</text>
+      <text x="506" y="164" font-size="9" fill="#8b949e">domain &#8594; company</text>
+    </g>
+    <g>
+      <rect x="226" y="126" width="152" height="50" rx="8" fill="#1c222b" stroke="#5dcaa5"/>
+      <text x="302" y="148" font-size="11" fill="#e6edf3">Peer comparison</text>
+      <text x="302" y="164" font-size="9" fill="#8b949e">like-for-like industry</text>
+    </g>
+    <g>
+      <rect x="22" y="126" width="152" height="50" rx="8" fill="#1c222b" stroke="#5dcaa5"/>
+      <text x="98" y="148" font-size="11" fill="#e6edf3">AML / KYC</text>
+      <text x="98" y="164" font-size="9" fill="#8b949e">due diligence</text>
+    </g>
+  </g>
+
+  <g stroke="#5dcaa5" stroke-width="1.4" fill="none">
+    <g marker-end="url(#ar)">
+      <path d="M174 55 H222"/>
+      <path d="M378 55 H426"/>
+      <path d="M582 55 H630"/>
+      <path d="M710 80 V122"/>
+      <path d="M506 104 V122"/>
+      <path d="M302 104 V122"/>
+      <path d="M98 104 V122"/>
+    </g>
+    <!-- the profile fans out to every consumer -->
+    <path d="M634 151 H610 V104 H98"/>
+  </g>
+</svg>

@@ -1,4 +1,4 @@
-<svg viewBox="0 0 860 132" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Impact: 10M+ documents processed, 98.6% extraction accuracy, 85% LLM cost reduction, 1.5M+ documents screened for tampering.">
+<svg viewBox="0 0 860 224" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Impact: 10M+ records extracted from documents; 98.6% parser extraction accuracy; 85% LLM cost reduction; 99.4% company-website match precision; 1.5M+ documents screened for tampering; 44% lower cost per PEP document.">
   <defs>
     <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#1c222b"/><stop offset="1" stop-color="#161b22"/>
@@ -10,33 +10,41 @@
   </defs>
 
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
-    <!-- card 1 -->
     <g>
-      <rect x="0" y="14" width="200" height="104" rx="12" fill="url(#card)" stroke="#30363d"/>
-      <rect x="0" y="14" width="200" height="104" rx="12" fill="url(#glow)"/>
-      <text x="100" y="66" font-size="30" font-weight="700" fill="#f2f5fa">100M+</text>
-      <text x="100" y="92" font-size="12" fill="#8b949e">documents processed</text>
+      <rect x="0.5" y="8.5" width="275" height="96" rx="12" fill="url(#card)" stroke="#30363d"/>
+      <rect x="0.5" y="8.5" width="275" height="96" rx="12" fill="url(#glow)"/>
+      <text x="138.0" y="60" font-size="30" font-weight="700" fill="#f2f5fa">10M+</text>
+      <text x="138.0" y="84" font-size="12" fill="#8b949e">records extracted from documents</text>
     </g>
-    <!-- card 2 -->
     <g>
-      <rect x="220" y="14" width="200" height="104" rx="12" fill="url(#card)" stroke="#30363d"/>
-      <rect x="220" y="14" width="200" height="104" rx="12" fill="url(#glow)"/>
-      <text x="320" y="66" font-size="30" font-weight="700" fill="#f2f5fa">98.6%</text>
-      <text x="320" y="92" font-size="12" fill="#8b949e">extraction accuracy</text>
+      <rect x="292.5" y="8.5" width="275" height="96" rx="12" fill="url(#card)" stroke="#30363d"/>
+      <rect x="292.5" y="8.5" width="275" height="96" rx="12" fill="url(#glow)"/>
+      <text x="430.0" y="60" font-size="30" font-weight="700" fill="#f2f5fa">98.6%</text>
+      <text x="430.0" y="84" font-size="12" fill="#8b949e">parser extraction accuracy</text>
     </g>
-    <!-- card 3 -->
     <g>
-      <rect x="440" y="14" width="200" height="104" rx="12" fill="url(#card)" stroke="#30363d"/>
-      <rect x="440" y="14" width="200" height="104" rx="12" fill="url(#glow)"/>
-      <text x="540" y="66" font-size="30" font-weight="700" fill="#f2f5fa">85%</text>
-      <text x="540" y="92" font-size="12" fill="#8b949e">LLM cost reduction</text>
+      <rect x="584.5" y="8.5" width="275" height="96" rx="12" fill="url(#card)" stroke="#30363d"/>
+      <rect x="584.5" y="8.5" width="275" height="96" rx="12" fill="url(#glow)"/>
+      <text x="722.0" y="60" font-size="30" font-weight="700" fill="#f2f5fa">85%</text>
+      <text x="722.0" y="84" font-size="12" fill="#8b949e">LLM cost reduction</text>
     </g>
-    <!-- card 4 -->
     <g>
-      <rect x="660" y="14" width="200" height="104" rx="12" fill="url(#card)" stroke="#30363d"/>
-      <rect x="660" y="14" width="200" height="104" rx="12" fill="url(#glow)"/>
-      <text x="760" y="66" font-size="30" font-weight="700" fill="#f2f5fa">25M+</text>
-      <text x="760" y="92" font-size="12" fill="#8b949e">docs screened for tampering</text>
+      <rect x="0.5" y="120.5" width="275" height="96" rx="12" fill="url(#card)" stroke="#30363d"/>
+      <rect x="0.5" y="120.5" width="275" height="96" rx="12" fill="url(#glow)"/>
+      <text x="138.0" y="172" font-size="30" font-weight="700" fill="#f2f5fa">99.4%</text>
+      <text x="138.0" y="196" font-size="12" fill="#8b949e">company-website match precision</text>
+    </g>
+    <g>
+      <rect x="292.5" y="120.5" width="275" height="96" rx="12" fill="url(#card)" stroke="#30363d"/>
+      <rect x="292.5" y="120.5" width="275" height="96" rx="12" fill="url(#glow)"/>
+      <text x="430.0" y="172" font-size="30" font-weight="700" fill="#f2f5fa">1.5M+</text>
+      <text x="430.0" y="196" font-size="12" fill="#8b949e">documents screened for tampering</text>
+    </g>
+    <g>
+      <rect x="584.5" y="120.5" width="275" height="96" rx="12" fill="url(#card)" stroke="#30363d"/>
+      <rect x="584.5" y="120.5" width="275" height="96" rx="12" fill="url(#glow)"/>
+      <text x="722.0" y="172" font-size="30" font-weight="700" fill="#f2f5fa">44%</text>
+      <text x="722.0" y="196" font-size="12" fill="#8b949e">lower cost per PEP document</text>
     </g>
   </g>
 </svg>
