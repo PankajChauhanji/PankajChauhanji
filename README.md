@@ -1,6 +1,6 @@
 <div align="center">
 
-![Pankaj Chauhan — Tech Lead Engineer at Perfios Software Solutions. Agentic AI, Document AI and LLM pipelines. Highest trek 4,600 m.](./assets/hero.svg)
+![Pankaj Chauhan — Tech Lead Engineer at Perfios Software Solutions. Agentic AI, Document AI and LLM pipelines. Highest trek 5,400 m.](./assets/hero.svg)
 
 <a href="https://pankaj-sde.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-e0a458?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 &nbsp;
@@ -31,7 +31,7 @@
   "location": "Dehradun, India · Perfios New Delhi (hybrid)",
   "focus":    ["Agentic AI", "LLM pipelines", "Document AI & OCR", "Web intelligence", "Python"],
   "now":      "Leading a team that builds AI-driven data intelligence products",
-  "off_duty": "Altitude trekking — highest point 4,600 m",
+  "off_duty": "Altitude trekking — highest point 5,400 m",
   "mantra":   "Planning an expedition is a lot like planning a release."
 }
 ```
@@ -235,7 +235,7 @@ Continuously crawls open-source news into MongoDB, cleans and de-noises the stre
 
 <br>
 
-Long approaches and quiet summits in the Himalaya are how I reset — highest point reached so far is **4,600 m**. Planning an expedition turns out to be a lot like planning a release: load light, plan the route, respect the conditions, and keep moving.
+Long approaches and quiet summits in the Himalaya are how I reset — highest point reached so far is **5,400 m**. Planning an expedition turns out to be a lot like planning a release: load light, plan the route, respect the conditions, and keep moving.
 
 </details>
 

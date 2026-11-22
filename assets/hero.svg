@@ -1,4 +1,4 @@
-<svg viewBox="0 0 860 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pankaj Chauhan — Tech Lead Engineer at Perfios Software Solutions. Agentic AI, Document AI and LLM pipelines. Highest trek 4,600 m.">
+<svg viewBox="0 0 860 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pankaj Chauhan — Tech Lead Engineer at Perfios Software Solutions. Agentic AI, Document AI and LLM pipelines. Highest trek 5,400 m.">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0c1322"/>
@@ -39,7 +39,7 @@
   <!-- summit flag on the highest peak, clear of the text -->
   <line x1="560" y1="66" x2="560" y2="138" stroke="#e0a458" stroke-width="1.4" stroke-dasharray="3 3"/>
   <path d="M560 66 L596 73 L560 82 Z" fill="#e0a458"/>
-  <text x="604" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" fill="#e0a458" font-weight="600">4,600 m · highest summit</text>
+  <text x="604" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" fill="#e0a458" font-weight="600">5,400 m · highest summit</text>
 
   <!-- identity -->
   <text x="42" y="70" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#f2f5fa" letter-spacing="-0.8">Pankaj Chauhan</text>
