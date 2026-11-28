@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 206" width="860" height="206" role="img" aria-label="1,209 total commits (659 public, 550 private); 1,107 in 2026; current streak 0 days; longest 5 days.">
+  <rect x="0.5" y="0.5" width="859" height="205" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="24" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e6edf3">GitHub activity</text>
+  <text x="836" y="34" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8b949e">public + private · updated 2026-11-28</text>
+  <text x="24" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#e0a458">1,209</text>
+  <text x="26" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8b949e">total commits, all repositories</text>
+  <rect x="24" y="146" width="248" height="8" rx="4" fill="#a371f7"/>
+  <rect x="24" y="146" width="135.2" height="8" rx="4" fill="#7fb5e6"/>
+  <circle cx="29" cy="174" r="4" fill="#7fb5e6"/>
+  <text x="38" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e6edf3">659 <tspan fill="#8b949e">public</tspan></text>
+  <circle cx="149" cy="174" r="4" fill="#a371f7"/>
+  <text x="158" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e6edf3">550 <tspan fill="#8b949e">private</tspan></text>
+  <rect x="320" y="56" width="164" height="60" rx="8" fill="#1c222b" stroke="#30363d"/>
+  <text x="334" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">1,107</text>
+  <text x="334" y="103" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">commits in 2026</text>
+  <rect x="496" y="56" width="164" height="60" rx="8" fill="#1c222b" stroke="#30363d"/>
+  <text x="510" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">1,241</text>
+  <text x="510" y="103" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">total contributions</text>
+  <rect x="672" y="56" width="164" height="60" rx="8" fill="#1c222b" stroke="#30363d"/>
+  <text x="686" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">0 days</text>
+  <text x="686" y="103" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">current streak</text>
+  <rect x="320" y="128" width="164" height="60" rx="8" fill="#1c222b" stroke="#30363d"/>
+  <text x="334" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">5 days</text>
+  <text x="334" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">longest streak</text>
+  <rect x="496" y="128" width="164" height="60" rx="8" fill="#1c222b" stroke="#30363d"/>
+  <text x="510" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">11</text>
+  <text x="510" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">pull requests</text>
+  <rect x="672" y="128" width="164" height="60" rx="8" fill="#1c222b" stroke="#30363d"/>
+  <text x="686" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">19</text>
+  <text x="686" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">repos contributed to</text>
+</svg>

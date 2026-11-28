@@ -1,0 +1,93 @@
+{
+  "login": "PankajChauhanji",
+  "updated": "2026-11-28",
+  "commits_public": 659,
+  "commits_private": 550,
+  "commits_this_year": 1107,
+  "contributions_total": 1241,
+  "streak_current": 0,
+  "streak_longest": 5,
+  "pull_requests": 11,
+  "repos_contributed": 19,
+  "repos_owned": 22,
+  "repos_private": 5,
+  "per_year": [
+    {
+      "year": 2019,
+      "public": 1,
+      "private": 0
+    },
+    {
+      "year": 2020,
+      "public": 11,
+      "private": 0
+    },
+    {
+      "year": 2021,
+      "public": 48,
+      "private": 12
+    },
+    {
+      "year": 2022,
+      "public": 28,
+      "private": 0
+    },
+    {
+      "year": 2023,
+      "public": 0,
+      "private": 0
+    },
+    {
+      "year": 2024,
+      "public": 2,
+      "private": 0
+    },
+    {
+      "year": 2025,
+      "public": 0,
+      "private": 0
+    },
+    {
+      "year": 2026,
+      "public": 569,
+      "private": 538
+    }
+  ],
+  "languages": [
+    {
+      "name": "Python",
+      "pct": 54.39304457322173,
+      "color": "#3572A5"
+    },
+    {
+      "name": "JavaScript",
+      "pct": 16.285649651197495,
+      "color": "#f1e05a"
+    },
+    {
+      "name": "HTML",
+      "pct": 15.07500491734991,
+      "color": "#e34c26"
+    },
+    {
+      "name": "CSS",
+      "pct": 13.195146337153496,
+      "color": "#663399"
+    },
+    {
+      "name": "C++",
+      "pct": 0.7560908135727035,
+      "color": "#f34b7d"
+    },
+    {
+      "name": "PowerShell",
+      "pct": 0.2051659202439914,
+      "color": "#012456"
+    },
+    {
+      "name": "Other",
+      "pct": 0.08989778726067951,
+      "color": "#6e7681"
+    }
+  ]
+}
